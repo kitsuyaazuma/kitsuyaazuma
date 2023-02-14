@@ -1,5 +1,5 @@
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,ts,react,nextjs,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,ts,react,nextjs,firebase,githubactions&theme=dark)](https://skillicons.dev)
 
 ## Learning
 [![My Skills](https://skillicons.dev/icons?i=go,aws,gcp,kubernetes,pytorch&theme=dark)](https://skillicons.dev)
