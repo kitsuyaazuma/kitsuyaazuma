@@ -1,5 +1,5 @@
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,ts,react,nextjs,firebase,githubactions,aws,gcp,kubernetes,go,azure,linux,graphql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,ts,react,nextjs,firebase,githubactions,aws,gcp,kubernetes,go,azure,linux,graphql,mysql,prometheus&theme=dark)](https://skillicons.dev)
 
 <a href="https://github.com/Kitsuya0828">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kitsuya0828&count_private=true&show_icons=true&theme=dark" />
