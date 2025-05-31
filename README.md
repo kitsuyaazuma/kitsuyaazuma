@@ -4,6 +4,6 @@
 <a href="https://github.com/kitsuyaazuma">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kitsuyaazuma&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/Kitsuya0828">
+<a href="https://github.com/kitsuyaazuma">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitsuyaazuma&count_private=true&layout=compact&theme=dark&exclude_repo=Sprouty&hide=jupyter%20notebook,YAML&langs_count=7" />
 </a>
