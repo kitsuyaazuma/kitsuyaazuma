@@ -1,4 +1,7 @@
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,ts,react,nextjs,firebase,githubactions,aws,gcp,docker,kubernetes,go,azure,terraform,linux,graphql,mysql,prometheus,grafana,pytorch,ansible,vim,git,github,ubuntu,bash,neovim,nginx,cloudflare,astro,npm,yarn,pnpm&theme=dark)](https://skillicons.dev)
+
+![MySkills](https://go-skill-icons.vercel.app/api/icons?i=ansible,apptainer,argocd,astro,aws,bash,cloudflare,docker,fastapi,firebase,gcp,git,github,githubactions,go,graphql,grafana,hono,kubernetes,linux,mysql,neovim,nextjs,nginx,nodejs,npm,pnpm,podman,prometheus,pytorch,py,react,terraform,ts,ubuntu,vim,workers,yarn,zustand&perline=10)
+
+## My Metrics
 
 ![Metrics](/github-metrics.svg)
